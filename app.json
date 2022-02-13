@@ -1,5 +1,6 @@
 {
-    "name": "EvaMariaBot",
+    "name": "ᑎᗩᖇᑌTO ᐯ1",
+    "logo": "https://telegra.ph/file/4687b42fcadd91f0a12e9.jpg",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
@@ -15,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/MRK-YT/EvaMaria",
+    "website": "https://github.com/TEAM-FLUFFY/NarutoRoBotV1",
+    "repository": "https://github.com/TEAM-FLUFFY/NarutoRoBotV1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
